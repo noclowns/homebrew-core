@@ -27,6 +27,7 @@ class Netpbm < Formula
   end
 
   depends_on "pkgconf" => :build
+  depends_on "subversion" => :build
   depends_on "jasper"
   depends_on "jpeg-turbo"
   depends_on "libpng"
