@@ -1,4 +1,4 @@
-# This file is synced from `Homebrew/brew` by the `.github` repository, do not modify it directly.
+     # This file is synced from `Homebrew/brew` by the `.github` repository, do not modify it directly.
 ---
 AllCops:
   ParserEngine: parser_prism
